@@ -1,2 +1,1 @@
-# Fast-Trajectory-Replanning-for-Generated-Mazes
-Fast Trajectory Replanning for AI Computer Games
+http://idm-lab.org/project-m/project1-content.html
